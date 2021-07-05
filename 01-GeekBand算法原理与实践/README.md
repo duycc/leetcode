@@ -126,21 +126,21 @@
 
 ## 6. 动态规划和递归
 
-| Times |                            Title                             |          Solution          |
-| :---: | :----------------------------------------------------------: | :------------------------: |
-|   #   | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |     [C++](cpp/fib.cpp)     |
-|   #   | [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | [C++](cpp/tribonacci.cpp)  |
-|   #   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [C++](cpp/climbStairs.cpp) |
-|   #   | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) |  [C++](cpp/wordBreak.cpp)  |
-|       |                                                              |                            |
-|       |                                                              |                            |
-|       |                                                              |                            |
-|       |                                                              |                            |
-|       |                                                              |                            |
-|       |                                                              |                            |
-|       |                                                              |                            |
-|       |                                                              |                            |
-|       |                                                              |                            |
+| Times |                            Title                             |        [C++](cpp/)         |        [Python](python/)        |
+| :---: | :----------------------------------------------------------: | :------------------------: | :-----------------------------: |
+|   #   | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |     [C++](cpp/fib.cpp)     |        [Python](python/)        |
+|   #   | [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | [C++](cpp/tribonacci.cpp)  |        [Python](python/)        |
+|   #   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [C++](cpp/climbStairs.cpp) |        [Python](python/)        |
+|   #   | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) |  [C++](cpp/wordBreak.cpp)  |        [Python](python/)        |
+|   #   | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [C++](cpp/coinChange.cpp)  | [Python](python/coinChange.py)  |
+|   #   | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [C++](cpp/uniquePaths.cpp) | [Python](python/uniquePaths.py) |
+|       |                                                              |                            |                                 |
+|       |                                                              |                            |                                 |
+|       |                                                              |                            |                                 |
+|       |                                                              |                            |                                 |
+|       |                                                              |                            |                                 |
+|       |                                                              |                            |                                 |
+|       |                                                              |                            |                                 |
 
 ## 7. 图与搜索
 
